@@ -22,7 +22,7 @@ Requirements
 
 Usage
 -----
-ytascii "https://www.youtube.com/watch?v=..."
+ytascii "YOUTUBE URL"
 
 Architecture
 ------------
